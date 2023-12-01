@@ -7,7 +7,7 @@ Our analysis of an article named "A non-local algorithm for image denoising".
 
 This repository contains experiments realted to the implementation of the NL-Means algorithm.
 For more details, read "nlmeansC/README.txt".
-* Original Author : Antoni Buades <toni.buades@gmail.com>
+* Implementation Author : Antoni Buades <toni.buades@gmail.com>
 
 ### Test using our simple script (Linux only)
 
